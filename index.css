@@ -80,6 +80,7 @@ li {
 .hero-section h1 {
     font-size: 4rem;
     color: #fff;
+    text-shadow: 4px 4px 4px #000;
     animation: bounceIn 2s ease-in-out;
 }
 
